@@ -1,0 +1,8 @@
+# Compiled files
+node_modules/
+build/
+
+# Build tools
+.vscode
+.eslintrc.js
+package-lock.json
